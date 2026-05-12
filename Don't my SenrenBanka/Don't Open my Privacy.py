@@ -13,10 +13,10 @@ TARGET_EXE = "SenrenBanka.exe"   # <-- 修改为你的目标程序名
 OPEN_PROGRAM = r"D:\1110(1)\GameViewer\GameViewer.exe"  # <-- 修改为你要打开的程序
 #
 #  ★ 弹窗提示文字
-POPUP_MESSAGE = "你觉得我还会给你机会？\n\n电脑将在 5 秒后锁定屏幕！"
+POPUP_MESSAGE = "*************\n\n电脑将在 5 秒后锁定屏幕！"
 #
 #  ★ 弹窗标题
-POPUP_TITLE = "戚俊涵我操你妈，你个小畜生"
+POPUP_TITLE = "*************"
 #
 #  ★ 锁屏倒计时（秒）
 LOCK_DELAY = 5
